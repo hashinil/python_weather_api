@@ -37,6 +37,10 @@
 ### Temp for one station for one year
 ![image](https://github.com/hashinil/python_weather_api/assets/33922245/fc017a15-c171-4766-8208-241797486dc9)
 
+### Jupyter notebook
+[Notebook](https://github.com/hashinil/python_weather_api/blob/master/pandas.ipynb)
+
+
 
 
 
