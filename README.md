@@ -39,8 +39,6 @@
 
 
 
-### jupiter notebook
-![image](https://github.com/hashinil/python_weather_api/assets/33922245/6bbf051b-bfd7-4dec-be16-5fbd666486c5)
 
 
 
